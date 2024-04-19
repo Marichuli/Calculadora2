@@ -1,3 +1,0 @@
-/*
-Soy un cambio en Github
-*/
